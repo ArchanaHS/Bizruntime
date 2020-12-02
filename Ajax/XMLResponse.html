@@ -2,7 +2,9 @@
     <body>
         <h2>XMLHttp request object..</h2>
         <p id="demo"></p>
+
         <script>
+
            var xhttp, xmlDoc, txt, x, i;
             xhttp = new XMLHttpRequest();
             //create an http request object
@@ -12,7 +14,9 @@
             txt = "";
 
             x = xmlDoc.getElementsByTagName("ARTIST");
+
             for (i = 0; i < x.length; i++) {
+                
                 txt = txt + x[i].childNodes[0].nodeValue + "<br>";
             }
             document.getElementById("demo").innerHTML = txt;
