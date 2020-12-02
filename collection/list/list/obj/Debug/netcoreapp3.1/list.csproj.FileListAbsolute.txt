@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\bin\Debug\netcoreapp3.1\list.exe
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\bin\Debug\netcoreapp3.1\list.deps.json
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\bin\Debug\netcoreapp3.1\list.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\bin\Debug\netcoreapp3.1\list.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\bin\Debug\netcoreapp3.1\list.dll
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\bin\Debug\netcoreapp3.1\list.pdb
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\obj\Debug\netcoreapp3.1\list.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\obj\Debug\netcoreapp3.1\list.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\obj\Debug\netcoreapp3.1\list.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\obj\Debug\netcoreapp3.1\list.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\obj\Debug\netcoreapp3.1\list.dll
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\obj\Debug\netcoreapp3.1\list.pdb
+C:\Users\hp\Desktop\Bizruntime\9-11-2020\collection\list\list\obj\Debug\netcoreapp3.1\list.genruntimeconfig.cache

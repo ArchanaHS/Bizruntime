@@ -1,0 +1,42 @@
+<!--XMLhttp request.-->
+<html>
+    <body>
+        <div id="demo">
+
+            <!-- div -> display information from a server
+                button -> calls the function
+                XMLHttpRequest->exchange the data with server behind scene. without reloading an page 
+                                can update easyly.
+            -->
+            
+            <h1>The XML Http Request Object</h1>
+            <button type="button" onclick="loadDoc()">Change Content</button><br><br>
+
+         
+        </div>
+        
+        <script>
+            function loadDoc(){
+                //onreadyStatechange ->is property defines a function to be executed when the readyState changes.
+                var xhttp=new XMLHttpRequest();//creates a http request object.
+                xhttp.onreadystatechange= function(){
+                    //readyState ->its a property it holds the status of the XMLHttp request.
+                    //status->property.
+                    //responsetext -> property holds the status of the XMLhttp request object.
+                    if(this.readyState == 4 && this.status== 200){
+                        document.getElementById("demo").innerHTML= this.responseText;
+                    }
+                };
+                 xhttp.open("GET", "display.txt", true);
+                 //specify the type of request. open(method,url,async)
+                 //method->get or post
+                 //url->location
+                 //async :true sync:false.
+                 xhttp.send();
+                 //send()-->sends request to the server(used for GET).
+                 //send(string)-->sends request to the server(used for POst).
+
+            }
+            </script>
+    </body>
+</html>
