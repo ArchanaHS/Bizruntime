@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\bin\Debug\netcoreapp3.1\dowhile.exe
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\bin\Debug\netcoreapp3.1\dowhile.deps.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\bin\Debug\netcoreapp3.1\dowhile.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\bin\Debug\netcoreapp3.1\dowhile.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\bin\Debug\netcoreapp3.1\dowhile.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\bin\Debug\netcoreapp3.1\dowhile.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.genruntimeconfig.cache

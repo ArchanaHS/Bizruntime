@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\bin\Debug\netcoreapp3.1\DataTypeapplication.exe
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\bin\Debug\netcoreapp3.1\DataTypeapplication.deps.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\bin\Debug\netcoreapp3.1\DataTypeapplication.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\bin\Debug\netcoreapp3.1\DataTypeapplication.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\bin\Debug\netcoreapp3.1\DataTypeapplication.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\bin\Debug\netcoreapp3.1\DataTypeapplication.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\obj\Debug\netcoreapp3.1\DataTypeapplication.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\obj\Debug\netcoreapp3.1\DataTypeapplication.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\obj\Debug\netcoreapp3.1\DataTypeapplication.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\obj\Debug\netcoreapp3.1\DataTypeapplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\obj\Debug\netcoreapp3.1\DataTypeapplication.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\obj\Debug\netcoreapp3.1\DataTypeapplication.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\DataTypeapplication\DataTypeapplication\obj\Debug\netcoreapp3.1\DataTypeapplication.genruntimeconfig.cache
