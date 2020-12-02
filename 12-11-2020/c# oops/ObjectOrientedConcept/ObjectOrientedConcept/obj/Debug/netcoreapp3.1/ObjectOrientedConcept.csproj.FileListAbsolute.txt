@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\bin\Debug\netcoreapp3.1\ObjectOrientedConcept.exe
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\bin\Debug\netcoreapp3.1\ObjectOrientedConcept.deps.json
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\bin\Debug\netcoreapp3.1\ObjectOrientedConcept.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\bin\Debug\netcoreapp3.1\ObjectOrientedConcept.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\bin\Debug\netcoreapp3.1\ObjectOrientedConcept.dll
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\bin\Debug\netcoreapp3.1\ObjectOrientedConcept.pdb
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\obj\Debug\netcoreapp3.1\ObjectOrientedConcept.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\obj\Debug\netcoreapp3.1\ObjectOrientedConcept.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\obj\Debug\netcoreapp3.1\ObjectOrientedConcept.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\obj\Debug\netcoreapp3.1\ObjectOrientedConcept.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\obj\Debug\netcoreapp3.1\ObjectOrientedConcept.dll
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\obj\Debug\netcoreapp3.1\ObjectOrientedConcept.pdb
+C:\Users\hp\Desktop\Bizruntime\12-11-2020\c# oops\ObjectOrientedConcept\ObjectOrientedConcept\obj\Debug\netcoreapp3.1\ObjectOrientedConcept.genruntimeconfig.cache

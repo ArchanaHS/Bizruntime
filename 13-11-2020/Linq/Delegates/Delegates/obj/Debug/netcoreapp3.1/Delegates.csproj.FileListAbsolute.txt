@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\bin\Debug\netcoreapp3.1\LinqListCollection.exe
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\bin\Debug\netcoreapp3.1\LinqListCollection.deps.json
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\bin\Debug\netcoreapp3.1\LinqListCollection.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\bin\Debug\netcoreapp3.1\LinqListCollection.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\bin\Debug\netcoreapp3.1\LinqListCollection.dll
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\bin\Debug\netcoreapp3.1\LinqListCollection.pdb
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\obj\Debug\netcoreapp3.1\LinqListCollection.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\obj\Debug\netcoreapp3.1\LinqListCollection.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\obj\Debug\netcoreapp3.1\LinqListCollection.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\obj\Debug\netcoreapp3.1\LinqListCollection.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\obj\Debug\netcoreapp3.1\LinqListCollection.dll
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\obj\Debug\netcoreapp3.1\LinqListCollection.pdb
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LinqListCollection\LinqListCollection\obj\Debug\netcoreapp3.1\LinqListCollection.genruntimeconfig.cache
