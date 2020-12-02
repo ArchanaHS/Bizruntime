@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.exe
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.deps.json
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.dll
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.pdb
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.dll
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.pdb
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.genruntimeconfig.cache

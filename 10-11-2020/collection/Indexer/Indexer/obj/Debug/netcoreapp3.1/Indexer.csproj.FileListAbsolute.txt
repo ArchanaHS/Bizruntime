@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache

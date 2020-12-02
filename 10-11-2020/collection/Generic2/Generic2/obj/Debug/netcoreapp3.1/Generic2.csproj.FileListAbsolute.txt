@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\bin\Debug\netcoreapp3.1\Generic2.exe
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\bin\Debug\netcoreapp3.1\Generic2.deps.json
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\bin\Debug\netcoreapp3.1\Generic2.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\bin\Debug\netcoreapp3.1\Generic2.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\bin\Debug\netcoreapp3.1\Generic2.dll
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\bin\Debug\netcoreapp3.1\Generic2.pdb
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\obj\Debug\netcoreapp3.1\Generic2.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\obj\Debug\netcoreapp3.1\Generic2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\obj\Debug\netcoreapp3.1\Generic2.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\obj\Debug\netcoreapp3.1\Generic2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\obj\Debug\netcoreapp3.1\Generic2.dll
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\obj\Debug\netcoreapp3.1\Generic2.pdb
+C:\Users\hp\Desktop\Bizruntime\10-11-2020\collection\Generic2\Generic2\obj\Debug\netcoreapp3.1\Generic2.genruntimeconfig.cache
