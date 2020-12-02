@@ -1,0 +1,153 @@
+<html>
+    <head>
+        <style>
+            .droptarget {
+                float: left; 
+                width: 100px; 
+                height: 35px;
+                margin: 15px;
+                padding: 10px;
+                border: 1px solid #aaaaaa;
+}
+div {
+  border: 1px solid black;
+  width: 200px;
+  height: 100px;
+  overflow: scroll;
+}
+        </style>
+    </head>
+    <body>
+
+        <p>This example uses the addEventListener() method to attach a click event to a button.</p>
+          <button id="myBtn">Try it</button>
+
+        <p><strong>Note:</strong> The addEventListener() method is not supported in Internet Explorer 8 and earlier versions.</p>
+
+        <p id="demo"></p>
+        <div id="myDIV">This div element has an onmousemove event handler that displays a random number every time you move your mouse inside this orange field.
+        <p>Click the button to remove the DIV's event handler.</p>
+        <button onclick="removeHandler()" id="myBtn">Try it</button>
+        </div>
+
+
+
+        <p>Drag the p element back and forth between the two rectangles:</p>
+
+        <div class="droptarget" ondrop="drop(event)" ondragover="allowDrop(event)">
+        <p ondragstart="dragStart(event)" ondrag="dragging(event)" draggable="true" id="dragtarget">Drag me!</p>
+        </div>
+        
+        
+        <div class="droptarget" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+
+        <p style="clear:both;"><strong>Note:</strong> drag events are not supported in Internet Explorer 8 and earlier versions or Safari 5.1 and earlier versions.</p>
+
+        <p id="demo1"></p>
+
+        <br><br>
+        <video controls onloadedmetadata="myFunction()">
+        <!--<video controls onloadeddata="myFunction1()">-->
+            <source src="mov_bbb.mp4" type="video/mp4">
+            <source src="mov_bbb.ogg" type="video/ogg">
+            Your browser does not support HTML5 video.
+          </video>
+          <p>Video courtesy of <a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.</p>
+          
+
+
+
+            <img onmouseenter="bigImg(this)" onmouseleave="normalImg(this)" border="0" src="smiley.gif" alt="Smiley" width="32" height="32">
+
+            <p>The function bigImg() is triggered when the user moves the mouse pointer onto the image.</p>
+            <p>The function normalImg() is triggered when the mouse pointer is moved out of the image.</p>
+          <br>
+          <br>
+          
+          <div onscroll="myFunction2()">In my younger and more vulnerable years my 
+            father gave me some advice that I've been turning over in my mind ever since.
+            <br><br>
+            'Whenever you feel like criticizing anyone,' he told me, 
+            just remember that all the people in this world haven't had the advantages that you've had.'</div>
+            <br>
+            <p>Scrolled <span id="demo2">0</span> times.</p>
+        
+        
+
+
+
+            <p>Write something in the search field and press "ENTER".</p>
+
+            <input type="search" id="myInput" onsearch="myFunction3()">
+
+            <p><strong>Note:</strong> The onsearch event is not supported 
+                in Internet Explorer, Firefox or Opera 12 and earlier versions.</p>
+        
+        
+        
+        
+            <script>
+                document.getElementById("myBtn").addEventListener("click", function() {
+                document.getElementById("demo").innerHTML = "Hello World";});
+
+
+
+                document.getElementById("myDIV").addEventListener("mousemove", myFunction);
+                function myFunction() {
+                        document.getElementById("demo").innerHTML = Math.random();
+                }
+
+                function removeHandler() {
+                        document.getElementById("myDIV").removeEventListener("mousemove", myFunction);
+                }
+
+
+
+                function dragStart(event) {
+                event.dataTransfer.setData("Text", event.target.id);
+                }
+
+                function dragging(event) {
+                document.getElementById("demo1").innerHTML = "The p element is being dragged";
+                }
+
+                function allowDrop(event) {
+                event.preventDefault();
+                }
+
+                function drop(event) {
+                event.preventDefault();
+                var data = event.dataTransfer.getData("Text");
+                event.target.appendChild(document.getElementById(data));
+                document.getElementById("demo1").innerHTML = "The p element was dropped";
+                }
+
+                function myFunction1() {
+                alert("Browser has loaded the current frame");
+                }
+
+
+                function bigImg(x) {
+                    x.style.height = "64px";
+                    x.style.width = "64px";
+                    }
+
+                    function normalImg(x) {
+                    x.style.height = "32px";
+                    x.style.width = "32px";
+                    }
+
+                    var x = 0;
+                    function myFunction2() {
+                    document.getElementById("demo").innerHTML = x += 1;
+                    }
+
+
+                    function myFunction3() {
+                    var x = document.getElementById("myInput");
+                    document.getElementById("demo").innerHTML = "You are searching for: " + x.value;
+                    }
+        </script>
+
+    </body>
+</html>

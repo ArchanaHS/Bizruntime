@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\bin\Debug\netcoreapp3.1\Array2.exe
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\bin\Debug\netcoreapp3.1\Array2.deps.json
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\bin\Debug\netcoreapp3.1\Array2.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\bin\Debug\netcoreapp3.1\Array2.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\bin\Debug\netcoreapp3.1\Array2.dll
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\bin\Debug\netcoreapp3.1\Array2.pdb
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.dll
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.pdb
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.genruntimeconfig.cache
