@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\bin\Debug\netcoreapp3.1\variable.exe
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\bin\Debug\netcoreapp3.1\variable.deps.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\bin\Debug\netcoreapp3.1\variable.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\bin\Debug\netcoreapp3.1\variable.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\bin\Debug\netcoreapp3.1\variable.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\bin\Debug\netcoreapp3.1\variable.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\obj\Debug\netcoreapp3.1\variable.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\obj\Debug\netcoreapp3.1\variable.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\obj\Debug\netcoreapp3.1\variable.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\obj\Debug\netcoreapp3.1\variable.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\obj\Debug\netcoreapp3.1\variable.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\obj\Debug\netcoreapp3.1\variable.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\variable\variable\obj\Debug\netcoreapp3.1\variable.genruntimeconfig.cache

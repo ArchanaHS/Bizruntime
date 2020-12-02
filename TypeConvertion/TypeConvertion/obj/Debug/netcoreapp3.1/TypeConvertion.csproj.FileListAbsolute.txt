@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\bin\Debug\netcoreapp3.1\TypeConvertion.exe
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\bin\Debug\netcoreapp3.1\TypeConvertion.deps.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\bin\Debug\netcoreapp3.1\TypeConvertion.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\bin\Debug\netcoreapp3.1\TypeConvertion.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\bin\Debug\netcoreapp3.1\TypeConvertion.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\bin\Debug\netcoreapp3.1\TypeConvertion.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\obj\Debug\netcoreapp3.1\TypeConvertion.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\obj\Debug\netcoreapp3.1\TypeConvertion.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\obj\Debug\netcoreapp3.1\TypeConvertion.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\obj\Debug\netcoreapp3.1\TypeConvertion.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\obj\Debug\netcoreapp3.1\TypeConvertion.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\obj\Debug\netcoreapp3.1\TypeConvertion.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\TypeConvertion\TypeConvertion\obj\Debug\netcoreapp3.1\TypeConvertion.genruntimeconfig.cache

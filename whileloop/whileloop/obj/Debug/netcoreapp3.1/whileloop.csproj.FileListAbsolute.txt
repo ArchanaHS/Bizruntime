@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.exe
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.deps.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.genruntimeconfig.cache
