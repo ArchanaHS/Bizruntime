@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache

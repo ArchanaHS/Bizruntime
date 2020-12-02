@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\bin\Debug\netcoreapp3.1\CheckedException.exe
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\bin\Debug\netcoreapp3.1\CheckedException.deps.json
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\bin\Debug\netcoreapp3.1\CheckedException.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\bin\Debug\netcoreapp3.1\CheckedException.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\bin\Debug\netcoreapp3.1\CheckedException.dll
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\bin\Debug\netcoreapp3.1\CheckedException.pdb
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\obj\Debug\netcoreapp3.1\CheckedException.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\obj\Debug\netcoreapp3.1\CheckedException.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\obj\Debug\netcoreapp3.1\CheckedException.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\obj\Debug\netcoreapp3.1\CheckedException.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\obj\Debug\netcoreapp3.1\CheckedException.dll
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\obj\Debug\netcoreapp3.1\CheckedException.pdb
+C:\Users\hp\Desktop\Bizruntime\7-11-2020\c#\CheckedException\CheckedException\obj\Debug\netcoreapp3.1\CheckedException.genruntimeconfig.cache
