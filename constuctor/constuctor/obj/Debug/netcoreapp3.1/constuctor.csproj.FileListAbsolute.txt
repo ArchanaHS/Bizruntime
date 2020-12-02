@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\bin\Debug\netcoreapp3.1\constuctor.exe
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\bin\Debug\netcoreapp3.1\constuctor.deps.json
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\bin\Debug\netcoreapp3.1\constuctor.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\bin\Debug\netcoreapp3.1\constuctor.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\bin\Debug\netcoreapp3.1\constuctor.dll
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\bin\Debug\netcoreapp3.1\constuctor.pdb
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\obj\Debug\netcoreapp3.1\constuctor.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\obj\Debug\netcoreapp3.1\constuctor.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\obj\Debug\netcoreapp3.1\constuctor.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\obj\Debug\netcoreapp3.1\constuctor.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\obj\Debug\netcoreapp3.1\constuctor.dll
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\obj\Debug\netcoreapp3.1\constuctor.pdb
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\constuctor\constuctor\obj\Debug\netcoreapp3.1\constuctor.genruntimeconfig.cache

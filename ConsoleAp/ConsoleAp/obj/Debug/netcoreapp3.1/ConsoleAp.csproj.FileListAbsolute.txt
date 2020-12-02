@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\bin\Debug\netcoreapp3.1\ConsoleAp.exe
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\bin\Debug\netcoreapp3.1\ConsoleAp.deps.json
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\bin\Debug\netcoreapp3.1\ConsoleAp.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\bin\Debug\netcoreapp3.1\ConsoleAp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\bin\Debug\netcoreapp3.1\ConsoleAp.dll
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\bin\Debug\netcoreapp3.1\ConsoleAp.pdb
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.dll
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.pdb
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.genruntimeconfig.cache

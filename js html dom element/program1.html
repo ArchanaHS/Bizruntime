@@ -1,0 +1,34 @@
+<!--DOM Elements-->
+<html>
+    <body>
+        <h2> My first page.</h2>
+
+
+
+        <p id="intro">Welcome to  this Web page..</p>
+        <p id="demo"></p>
+
+        <p class="intro">some text</p>
+        <p class="intro">This example demonstrates the getElementsByClassName</p>
+
+            <script>
+          
+            
+            var myElement = document.getElementById("intro");
+            document.getElementById("demo").innerHTML = 
+            "hi!....hello... " + myElement.innerHTML;
+
+
+            var x = document.getElementsByClassName("intro");
+            document.getElementById("demo").innerHTML = 
+            'The first paragraph index 0 with class="intro": ' + x[0].innerHTML;
+
+            var x = document.querySelectorAll("p.intro");
+            document.getElementById("demo").innerHTML = 
+            'The first paragraph index 0 with class="intro": ' + x[0].innerHTML;
+              
+
+            </script>
+        
+    </body>
+</html>

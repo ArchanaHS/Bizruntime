@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script>
+class Student
+  {
+    constructor()
+    {
+       var name; //datamember private.
+       var marks;
+    }
+        getName()//read
+        {
+          return this.name;
+        }
+       setName(name)//write
+      {
+        this.name=name;
+      }
+      
+      getMarks()//read
+      {
+        return this.marks;
+      }
+    setMarks(marks)//write
+    {
+        if(marks<0||marks>100)
+        {
+          alert("Invalid Marks");
+        }
+      else
+        {
+          this.marks=marks;
+        }
+    }
+    }
+     var stud=new Student();//object construction.
+     stud.setName("John");//method call
+     stud.setMarks(110);//alert() invokes
+     document.writeln(stud.getName()+" "+stud.getMarks());
+</script>
+
+</body>
+</html>
+
+ 

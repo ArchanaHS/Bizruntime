@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.exe
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.deps.json
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.dll
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.pdb
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.dll
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.pdb
+C:\Users\hp\Desktop\Bizruntime\4-11-2020\c#\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+<html>
+    <body>
+        <script>
+            class vechicle//parent class or super class
+            {
+                 constructor()
+                {
+                     this.company="Honda";
+                }
+            }
+        class bike extends vechicle {
+        constructor(name,price) {
+        super();//call the parent class constructor.
+        this.name=name;
+        this.price=price;
+   } 
+}
+var v = new Vehicle("Shine","70000");//
+document.writeln(v.company+" "+v.name+" "+v.price);
+        </script>
+    </body>
+</html>
