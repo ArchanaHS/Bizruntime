@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\bin\Debug\netcoreapp3.1\Errorhandling.exe
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\bin\Debug\netcoreapp3.1\Errorhandling.deps.json
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\bin\Debug\netcoreapp3.1\Errorhandling.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\bin\Debug\netcoreapp3.1\Errorhandling.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\bin\Debug\netcoreapp3.1\Errorhandling.dll
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\bin\Debug\netcoreapp3.1\Errorhandling.pdb
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\obj\Debug\netcoreapp3.1\Errorhandling.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\obj\Debug\netcoreapp3.1\Errorhandling.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\obj\Debug\netcoreapp3.1\Errorhandling.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\obj\Debug\netcoreapp3.1\Errorhandling.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\obj\Debug\netcoreapp3.1\Errorhandling.dll
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\obj\Debug\netcoreapp3.1\Errorhandling.pdb
+C:\Users\hp\Desktop\Bizruntime\6-11-2020\c# exception handling\Errorhandling\Errorhandling\obj\Debug\netcoreapp3.1\Errorhandling.genruntimeconfig.cache
