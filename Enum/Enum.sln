@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{802FC5AB-9DA8-40D1-A84F-80DA88983E1F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{5B6979A9-0B9B-4D8C-AC25-1D244C825DD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{802FC5AB-9DA8-40D1-A84F-80DA88983E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{802FC5AB-9DA8-40D1-A84F-80DA88983E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{802FC5AB-9DA8-40D1-A84F-80DA88983E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{802FC5AB-9DA8-40D1-A84F-80DA88983E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6979A9-0B9B-4D8C-AC25-1D244C825DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6979A9-0B9B-4D8C-AC25-1D244C825DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6979A9-0B9B-4D8C-AC25-1D244C825DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6979A9-0B9B-4D8C-AC25-1D244C825DD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DCFDFC5B-93DC-4984-978F-C83C55AF0DE1}
+		SolutionGuid = {B2CD8CA1-956E-419D-ACE0-7238302522B6}
 	EndGlobalSection
 EndGlobal

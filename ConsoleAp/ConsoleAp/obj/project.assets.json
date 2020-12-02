@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Bizruntime\\5-11-2020\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\hp\\Desktop\\Bizruntime\\5-11-2020\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Bizruntime\\5-11-2020\\c#\\ConsoleAp\\ConsoleAp\\ConsoleAp.csproj",
+      "projectName": "ConsoleAp",
+      "projectPath": "C:\\Users\\hp\\Desktop\\Bizruntime\\5-11-2020\\c#\\ConsoleAp\\ConsoleAp\\ConsoleAp.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\Bizruntime\\5-11-2020\\c#\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\Bizruntime\\5-11-2020\\c#\\ConsoleAp\\ConsoleAp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

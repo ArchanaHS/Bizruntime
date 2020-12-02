@@ -1,32 +1,40 @@
 ﻿using System;
-
-namespace ConsoleApp1
+//first set of namespace.
+namespace first_space
 {
-    class Program
+   
+    class namespace_cl
     {
-        static void Main(string[] args)
+
+        public void func()
         {
-            int time = 20;
-            if (time > 10)
-            {
-                Console.WriteLine("good morning");
-            }
-            else if(time<18)
-            {
-                Console.WriteLine("good day");
-            }
-            else
-            {
-                Console.WriteLine("good evening");
-            }
-            if (45 > 34)
-            {
-                Console.WriteLine(" True");
-            }
-            else
-            {
-                Console.WriteLine("False");
-            }
+            Console.WriteLine("Inside first_space");
         }
+    }
+}
+//second set of namespace.
+namespace second_space
+{
+
+    class namespace_cl
+    {
+
+        public void func()
+        {
+            Console.WriteLine("Inside second_space");
+        }
+    }
+}
+
+class TestClass
+{
+
+    static void Main(string[] args)
+    {
+        first_space.namespace_cl fc = new first_space.namespace_cl();//creating an object 
+        second_space.namespace_cl sc = new second_space.namespace_cl();
+        fc.func();//calling function
+        sc.func();
+        Console.ReadKey();
     }
 }

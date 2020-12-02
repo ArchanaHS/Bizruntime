@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.exe
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.deps.json
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.dll
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.dll
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\hp\Desktop\Bizruntime\5-11-2020\c#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.genruntimeconfig.cache
