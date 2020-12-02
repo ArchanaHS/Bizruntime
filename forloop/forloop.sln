@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forloop", "forloop\forloop.csproj", "{B314B51C-1387-484C-AECC-D7AA55FB06BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B314B51C-1387-484C-AECC-D7AA55FB06BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B314B51C-1387-484C-AECC-D7AA55FB06BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B314B51C-1387-484C-AECC-D7AA55FB06BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B314B51C-1387-484C-AECC-D7AA55FB06BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11FA87A2-4DC4-4898-8B9A-19A5D7CF17D9}
+	EndGlobalSection
+EndGlobal

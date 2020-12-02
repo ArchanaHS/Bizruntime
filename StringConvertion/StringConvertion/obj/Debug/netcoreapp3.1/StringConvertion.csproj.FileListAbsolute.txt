@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\bin\Debug\netcoreapp3.1\StringConvertion.exe
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\bin\Debug\netcoreapp3.1\StringConvertion.deps.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\bin\Debug\netcoreapp3.1\StringConvertion.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\bin\Debug\netcoreapp3.1\StringConvertion.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\bin\Debug\netcoreapp3.1\StringConvertion.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\bin\Debug\netcoreapp3.1\StringConvertion.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\obj\Debug\netcoreapp3.1\StringConvertion.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\obj\Debug\netcoreapp3.1\StringConvertion.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\obj\Debug\netcoreapp3.1\StringConvertion.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\obj\Debug\netcoreapp3.1\StringConvertion.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\obj\Debug\netcoreapp3.1\StringConvertion.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\obj\Debug\netcoreapp3.1\StringConvertion.genruntimeconfig.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\StringConvertion\StringConvertion\obj\Debug\netcoreapp3.1\StringConvertion.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\method\method\bin\Debug\netcoreapp3.1\method.exe
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\method\method\bin\Debug\netcoreapp3.1\method.deps.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\method\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\method\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\method\method\bin\Debug\netcoreapp3.1\method.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\method\method\bin\Debug\netcoreapp3.1\method.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\method\method\obj\Debug\netcoreapp3.1\method.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\method\method\obj\Debug\netcoreapp3.1\method.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\method\method\obj\Debug\netcoreapp3.1\method.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\method\method\obj\Debug\netcoreapp3.1\method.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\method\method\obj\Debug\netcoreapp3.1\method.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\method\method\obj\Debug\netcoreapp3.1\method.genruntimeconfig.cache

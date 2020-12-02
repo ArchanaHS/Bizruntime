@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.exe
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.deps.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.dll
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.pdb
+C:\Users\hp\Desktop\Bizruntime\03-11-2020\c#\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.genruntimeconfig.cache
