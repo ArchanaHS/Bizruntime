@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <title>web page</title>
+    </head>
+<body onload="checkCookies()">
+    <!--<h1 onclick="this.innerHTML = 'Oooops!...'">click on this page</h1>-->
+    <h1 onclick="changeText(this)">click on this text....</h1>
+
+    
+<p>click the button to display date....</p>
+<button onclick="displayDate()">The time is...</button>
+<p id="demo"></p>
+
+
+Enter your Name: <input type="text" id="fname" onchange="myFunction()">
+<p>when you leave the inpur field, a function is triggered which transforms the input text to uppercase</p>
+
+<div onmouseover="mOver(this)" onmouseout="mOut(this)" 
+ style="background-color:red; width:120px;height: 20px;padding: 40px;">MOUSE OVERME</div>
+
+<br><br>
+<div onmousedown="mDown(this)" onmouseup="mUp(this)" 
+style="background-color: blue; width: 120px; height: 20px; padding: 40px;"></div>
+
+Enter your phone: <input type="text" onfocus="myFunction1(this)">
+<p>when the input field get focus, the function is triggered and change the background color.</p>
+
+
+<br>
+<br>
+<h1 onmouseover="style.color='red'" onmouseout="style.color='blue'">Mouse over this text</h1>
+
+
+<div oncontextmenu="myFunctin2" contextmenu="mymenu">
+<p>Right click this box to see the context menu!!!!....</p>
+<menu type="context" id="mymenu"></menu>
+<menuitem label="Refresh" onclick="window.location.reload();" icon="ico_reload.png"></menuitem>
+<menu label="Share on...">
+<menuitem label="Twitter" icon="ico_twitter.png" 
+onclick="window.open('//twitter.com/intent/tweet?text=' + window.location.href);"></menuitem>
+</menu>
+
+</div>
+
+Note: context menu attribute works on firefox only..
+<br><br>
+<br><br>
+Enter the inputs: <input type="text"  value="Try to copy this text" oncopy="myFunction4()"><p id="test"></p>
+
+<br>
+Enter your inputs: <input type="text" value="Try to cut this text"   oncut="myFunction5()"><p id="test1"></p>
+<br>
+
+<p ondblclick="myFunction6()" id="test2">Double-click this paragraph to trigger a function.</p>
+
+
+    <script>
+
+       function  changeText(id)
+        {
+            id.innerHTML ="Oooops!....";
+        }
+
+        function displayDate(){
+        document.getElementById("demo").innerHTML=Date();
+        }
+
+        function checkCookies() {
+        var text = "";
+        if (navigator.cookieEnabled == true) {
+            text = "Cookies are enabled.";
+        } else {
+            text = "Cookies are not enabled.";
+        }
+            document.getElementById("demo").innerHTML = text;
+        }
+
+        function myFunction(){
+        var x=document.getElementById("fname");
+        x.value=x.value.toUpperCase();
+        }
+    
+        function mOver(obj){
+        obj.innerHTML="Thank You.";
+
+        }
+        function mOut(obj){
+        obj.innerHTML="Mouse Over Me.."
+        }
+
+        function mDown(obj){
+        obj.style.backgroundColor="yellow";
+        obj.innerHTML ="Release  Me...";
+         }
+
+        function mUp(obj){
+        obj.innerHTML ="Thank You..";
+        obj.style.backgroundColor="blue";
+        }
+
+        function myFunction1(x){
+        x.style.backgroundColor="yellow";
+        }
+
+        function myFunctin2(){
+            Console.console.log("you right clicking inside the div!");
+        }
+
+       
+        function myFunction4() {
+        document.getElementById("test").innerHTML = "You copied text!"
+        }
+
+
+        function myFunction5() {
+        document.getElementById("test1").innerHTML = "You cut the text"
+        }
+
+        function myFunction6() {
+    document.getElementById("test2").innerHTML = "Hello World";
+    }
+        
+
+    </script>
+
+</body>
+</html>
