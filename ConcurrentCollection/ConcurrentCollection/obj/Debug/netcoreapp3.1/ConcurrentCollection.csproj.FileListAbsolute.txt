@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\bin\Debug\netcoreapp3.1\ConcurrentCollection.exe
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\bin\Debug\netcoreapp3.1\ConcurrentCollection.deps.json
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\bin\Debug\netcoreapp3.1\ConcurrentCollection.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\bin\Debug\netcoreapp3.1\ConcurrentCollection.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\bin\Debug\netcoreapp3.1\ConcurrentCollection.dll
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\bin\Debug\netcoreapp3.1\ConcurrentCollection.pdb
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\obj\Debug\netcoreapp3.1\ConcurrentCollection.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\obj\Debug\netcoreapp3.1\ConcurrentCollection.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\obj\Debug\netcoreapp3.1\ConcurrentCollection.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\obj\Debug\netcoreapp3.1\ConcurrentCollection.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\obj\Debug\netcoreapp3.1\ConcurrentCollection.dll
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\obj\Debug\netcoreapp3.1\ConcurrentCollection.pdb
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\collection\ConcurrentCollection\ConcurrentCollection\obj\Debug\netcoreapp3.1\ConcurrentCollection.genruntimeconfig.cache
