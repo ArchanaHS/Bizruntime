@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\bin\Debug\netcoreapp3.1\EventsDelegates.exe
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\bin\Debug\netcoreapp3.1\EventsDelegates.deps.json
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\bin\Debug\netcoreapp3.1\EventsDelegates.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\bin\Debug\netcoreapp3.1\EventsDelegates.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\bin\Debug\netcoreapp3.1\EventsDelegates.dll
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\bin\Debug\netcoreapp3.1\EventsDelegates.pdb
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.dll
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.pdb
+C:\Users\hp\Desktop\Bizruntime\16-11-2020\C#\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.genruntimeconfig.cache
