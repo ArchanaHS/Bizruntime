@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <title>jQuery tutorial</title>
+        <link rel="stylesheet" type="text/css" href="index.css"> 
+        <script type="text/javascript"  src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+            <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+            <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    </head>
+    <body>
+        <h1>jQuery tutorial</h1>
+        <p>
+            BY Edureka!.....
+        </p>
+        <ul>
+            <li>Mango </li>
+            <li>Orange </li><br>
+            <li>Apple </li><br>
+        </ul>
+        <script>
+            //let is used for creating an object.
+            let design={
+
+                    color: "blue",
+                    background: "green",
+                    border: "1px solid black"
+            }
+
+            $(document).ready(function(){
+                $("button").click(function(){
+                    alert("Value:" + $("#sometext").val());
+                });
+
+            });
+
+        </script>
+        
+        <br>
+        <div class="Nature1">
+            <!--<img src="Nature/a5.jpeg">-->
+            <img src="Nature/a6.jpeg">
+            <img src="Nature/a7.jpeg">
+            <img src="Nature/a8.jpeg">
+            <img src="Nature/a9.jpeg">
+        </div>
+        <br>
+        <br>
+        <br>
+        <input type="text" id="sometext" value=" ">
+        <button>Submit</button>
+        <br>
+
+    </body>
+</html>
