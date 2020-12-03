@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\bin\Debug\netcoreapp3.1\MultiThreadin2.exe
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\bin\Debug\netcoreapp3.1\MultiThreadin2.deps.json
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\bin\Debug\netcoreapp3.1\MultiThreadin2.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\bin\Debug\netcoreapp3.1\MultiThreadin2.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\bin\Debug\netcoreapp3.1\MultiThreadin2.dll
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\bin\Debug\netcoreapp3.1\MultiThreadin2.pdb
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\obj\Debug\netcoreapp3.1\MultiThreadin2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\obj\Debug\netcoreapp3.1\MultiThreadin2.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\obj\Debug\netcoreapp3.1\MultiThreadin2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\obj\Debug\netcoreapp3.1\MultiThreadin2.dll
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\obj\Debug\netcoreapp3.1\MultiThreadin2.pdb
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\obj\Debug\netcoreapp3.1\MultiThreadin2.genruntimeconfig.cache
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\MultiThreadin2\MultiThreadin2\obj\Debug\netcoreapp3.1\MultiThreadin2.csprojAssemblyReference.cache

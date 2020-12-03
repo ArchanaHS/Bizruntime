@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\bin\Debug\netcoreapp3.1\JoinMethodThreading.exe
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\bin\Debug\netcoreapp3.1\JoinMethodThreading.deps.json
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\bin\Debug\netcoreapp3.1\JoinMethodThreading.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\bin\Debug\netcoreapp3.1\JoinMethodThreading.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\bin\Debug\netcoreapp3.1\JoinMethodThreading.dll
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\bin\Debug\netcoreapp3.1\JoinMethodThreading.pdb
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\obj\Debug\netcoreapp3.1\JoinMethodThreading.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\obj\Debug\netcoreapp3.1\JoinMethodThreading.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\obj\Debug\netcoreapp3.1\JoinMethodThreading.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\obj\Debug\netcoreapp3.1\JoinMethodThreading.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\obj\Debug\netcoreapp3.1\JoinMethodThreading.dll
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\obj\Debug\netcoreapp3.1\JoinMethodThreading.pdb
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\Collection\JoinMethodThreading\JoinMethodThreading\obj\Debug\netcoreapp3.1\JoinMethodThreading.genruntimeconfig.cache
