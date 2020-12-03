@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\bin\Debug\netcoreapp3.1\FileInfoDirectory.exe
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\bin\Debug\netcoreapp3.1\FileInfoDirectory.deps.json
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\bin\Debug\netcoreapp3.1\FileInfoDirectory.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\bin\Debug\netcoreapp3.1\FileInfoDirectory.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\bin\Debug\netcoreapp3.1\FileInfoDirectory.dll
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\bin\Debug\netcoreapp3.1\FileInfoDirectory.pdb
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\obj\Debug\netcoreapp3.1\FileInfoDirectory.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\obj\Debug\netcoreapp3.1\FileInfoDirectory.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\obj\Debug\netcoreapp3.1\FileInfoDirectory.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\obj\Debug\netcoreapp3.1\FileInfoDirectory.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\obj\Debug\netcoreapp3.1\FileInfoDirectory.dll
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\obj\Debug\netcoreapp3.1\FileInfoDirectory.pdb
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\FileInfoDirectory\FileInfoDirectory\obj\Debug\netcoreapp3.1\FileInfoDirectory.genruntimeconfig.cache
