@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\bin\Debug\netcoreapp3.1\ThreadLocking.exe
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\bin\Debug\netcoreapp3.1\ThreadLocking.deps.json
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\bin\Debug\netcoreapp3.1\ThreadLocking.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\bin\Debug\netcoreapp3.1\ThreadLocking.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\bin\Debug\netcoreapp3.1\ThreadLocking.dll
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\bin\Debug\netcoreapp3.1\ThreadLocking.pdb
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\obj\Debug\netcoreapp3.1\ThreadLocking.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\obj\Debug\netcoreapp3.1\ThreadLocking.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\obj\Debug\netcoreapp3.1\ThreadLocking.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\obj\Debug\netcoreapp3.1\ThreadLocking.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\obj\Debug\netcoreapp3.1\ThreadLocking.dll
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\obj\Debug\netcoreapp3.1\ThreadLocking.pdb
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadLocking\ThreadLocking\obj\Debug\netcoreapp3.1\ThreadLocking.genruntimeconfig.cache

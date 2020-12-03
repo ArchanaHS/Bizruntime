@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\obj\Debug\netcoreapp3.1\ThreadPriority.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\obj\Debug\netcoreapp3.1\ThreadPriority.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\obj\Debug\netcoreapp3.1\ThreadPriority.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\obj\Debug\netcoreapp3.1\ThreadPriority.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\bin\Debug\netcoreapp3.1\ThreadPriority.exe
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\bin\Debug\netcoreapp3.1\ThreadPriority.deps.json
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\bin\Debug\netcoreapp3.1\ThreadPriority.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\bin\Debug\netcoreapp3.1\ThreadPriority.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\bin\Debug\netcoreapp3.1\ThreadPriority.dll
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\bin\Debug\netcoreapp3.1\ThreadPriority.pdb
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\obj\Debug\netcoreapp3.1\ThreadPriority.dll
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\obj\Debug\netcoreapp3.1\ThreadPriority.pdb
+C:\Users\hp\Desktop\Bizruntime\18-11-2020\MultiThreading\ThreadPriority\ThreadPriority\obj\Debug\netcoreapp3.1\ThreadPriority.genruntimeconfig.cache
