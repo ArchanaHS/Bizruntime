@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\bin\Debug\netcoreapp3.1\DelegatesFunction.exe
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\bin\Debug\netcoreapp3.1\DelegatesFunction.deps.json
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\bin\Debug\netcoreapp3.1\DelegatesFunction.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\bin\Debug\netcoreapp3.1\DelegatesFunction.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\bin\Debug\netcoreapp3.1\DelegatesFunction.dll
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\bin\Debug\netcoreapp3.1\DelegatesFunction.pdb
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\obj\Debug\netcoreapp3.1\DelegatesFunction.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\obj\Debug\netcoreapp3.1\DelegatesFunction.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\obj\Debug\netcoreapp3.1\DelegatesFunction.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\obj\Debug\netcoreapp3.1\DelegatesFunction.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\obj\Debug\netcoreapp3.1\DelegatesFunction.dll
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\obj\Debug\netcoreapp3.1\DelegatesFunction.pdb
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\delegates\DelegatesFunction\DelegatesFunction\obj\Debug\netcoreapp3.1\DelegatesFunction.genruntimeconfig.cache
