@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-wodth, initial-scale=1.0">
+        <meta http-equiv="X-UA-compatible" content="ie=edge">
+        <title>CSS Course</title>
+        <link rel="stylesheet" href="main.css">
+        <style>
+            body{
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .container{
+                width: 200px;
+                margin: 32px auto;
+
+            }
+            .button{
+                font:inherit;
+                border: 1px solid #552211;
+                background: #421ea5;
+                color: white;
+                padding: 3px 15px;
+                cursor: pointer;
+
+            }
+            .button:active,
+            .button:hover{
+                background-color: purple;
+            }
+            .button.focus{
+                outline:none;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <button>Buy</button>
+        </div>
+    </body>
+
+</html>

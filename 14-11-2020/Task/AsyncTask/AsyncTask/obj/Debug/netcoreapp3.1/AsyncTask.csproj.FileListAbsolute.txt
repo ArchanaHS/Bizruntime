@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\bin\Debug\netcoreapp3.1\AsyncTask.exe
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\bin\Debug\netcoreapp3.1\AsyncTask.deps.json
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\bin\Debug\netcoreapp3.1\AsyncTask.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\bin\Debug\netcoreapp3.1\AsyncTask.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\bin\Debug\netcoreapp3.1\AsyncTask.dll
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\bin\Debug\netcoreapp3.1\AsyncTask.pdb
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\obj\Debug\netcoreapp3.1\AsyncTask.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\obj\Debug\netcoreapp3.1\AsyncTask.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\obj\Debug\netcoreapp3.1\AsyncTask.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\obj\Debug\netcoreapp3.1\AsyncTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\obj\Debug\netcoreapp3.1\AsyncTask.dll
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\obj\Debug\netcoreapp3.1\AsyncTask.pdb
+C:\Users\hp\Desktop\Bizruntime\14-11-2020\Task\AsyncTask\AsyncTask\obj\Debug\netcoreapp3.1\AsyncTask.genruntimeconfig.cache
