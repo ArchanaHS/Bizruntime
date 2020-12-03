@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\bin\Debug\netcoreapp3.1\LoadClass.exe
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\bin\Debug\netcoreapp3.1\LoadClass.deps.json
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\bin\Debug\netcoreapp3.1\LoadClass.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\bin\Debug\netcoreapp3.1\LoadClass.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\bin\Debug\netcoreapp3.1\LoadClass.dll
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\bin\Debug\netcoreapp3.1\LoadClass.pdb
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\obj\Debug\netcoreapp3.1\LoadClass.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\obj\Debug\netcoreapp3.1\LoadClass.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\obj\Debug\netcoreapp3.1\LoadClass.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\obj\Debug\netcoreapp3.1\LoadClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\obj\Debug\netcoreapp3.1\LoadClass.dll
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\obj\Debug\netcoreapp3.1\LoadClass.pdb
+C:\Users\hp\Desktop\Bizruntime\13-11-2020\Linq\LoadClass\LoadClass\obj\Debug\netcoreapp3.1\LoadClass.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+<!DOCTYPE html> html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width-device" initial-scale=1.0>
+    <!-- <link rel="stylesheet" href="/assets/dcode.css"> -->
+    <link rel="shortcut icon" href="/assets/favicon.ico " type="image/x-icon">
+    <litle>Websocket</litle>
+</head>
+<body>
+    <ul class="tsummery">
+        <li>allow two way, event-driven communication web brower d web server</li>
+        <li>great for <strong>real-time</strong>Application</li>
+        <li>after this tutorial you should create a simple web socket app</li>
+    </ul>
+    <script>
+        let ws = new WebSocket('ws://localhost:8080')
+        // ws.addEventListener("open",()=>{
+        //     Console.log("we are connected..");
+        //     ws.send("hey was how's it going");
+
+        // });
+        ws.onopen = () => {
+          console.log('Connection opened!');
+        }
+        ws.onerror = () => {
+          console.log("Error Connecting Socket")
+        }
+        ws.onmessage = ({ data }) => showMessage(data);
+        ws.onclose = function() {
+          ws = null;
+        }
+    </script>
+</body>
+
+</html>
