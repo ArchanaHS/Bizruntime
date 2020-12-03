@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.exe
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.deps.json
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Users\hp\Desktop\Bizruntime\17-11-2020\File IO\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.genruntimeconfig.cache
