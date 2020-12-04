@@ -1,113 +1,153 @@
-console.log("\x1b[47m\x1b[30m%s\x1b[0m", "-----------STATIC types-----------");
-var first = 12.2; //number
-var second = 0xFFF; //hex
-var third = 251; //octal
-var fourth = 13; //binary
-console.log("\n\n---------\x1b[103m\x1b[30m--Number--\x1b[0m---------");
-console.log(first);
-console.log(second);
-console.log(third);
-console.log(fourth);
-console.log("\x1b[91m-----------eof Number-----------\x1b[0m");
-console.log("\n---------\x1b[103m\x1b[30m--String--\x1b[0m---------");
-var empName = "Rohan";
-var empDept = "IT";
-var strOutput = empName + " works in " + empDept + " department";
-console.log(strOutput);
-console.log("\x1b[91m-----------eof String-----------\x1b[0m");
-console.log("\n---------\x1b[103m\x1b[30m--Boolean--\x1b[0m---------");
-var isDone = false;
-console.log(isDone);
-console.log("\x1b[91m-----------eof Boolean-----------\x1b[0m");
-console.log("\n---------\x1b[103m\x1b[30m--Void--\x1b[0m---------");
-function helloUser() {
-    console.log("Greetings User!");
-}
-helloUser();
-console.log("\x1b[91m-----------eof Void-----------\x1b[0m");
-console.log("\n---------\x1b[103m\x1b[30m--Any type--\x1b[0m---------");
-function ProcessData(x, y) {
-    return x + y;
-}
-var result;
-result = ProcessData("Hello ", "Any!");
-console.log(result, "of type", typeof result);
-result = ProcessData(2, 3);
-console.log(result, "of type", typeof result);
-console.log("\x1b[91m-----------eof Any type-----------\x1b[0m\n\n");
-console.log("\x1b[47m\x1b[30m%s\x1b[0m", "-----------USERDEFINED types-----------");
-//array
-console.log("\n\n---------\x1b[103m\x1b[30m--ARRAY--\x1b[0m---------");
-var list = [1, 3, 5];
-var fruits = ["Apple", "Orange", "Banana"];
-console.log(list, fruits);
-console.log('---------');
-//Union Array
-var mixed = ['Apple', 1, 'Orange', 3, 'Banana', 5];
-console.log(mixed);
-console.log("\x1b[91m-----------eof ARRAY-----------\x1b[0m");
-//tuple
-console.log("\n---------\x1b[103m\x1b[30m--TOUPLE--\x1b[0m---------");
-var tuple;
-tuple = ["One", 1];
-console.log(tuple);
-console.log("\x1b[91m-----------eof TOUPLE-----------\x1b[0m");
-//interface
-console.log("\n---------\x1b[103m\x1b[30m--INTERFACE--\x1b[0m---------");
-var CalculatorOperation = {
-    subtract: function (a, b) {
-        return a - b;
-    },
-    add: function (a, b) {
-        return a + b;
+//string
+var message = "Hello World";
+console.log(message);
+//class,object,method.
+var Greeting = /** @class */ (function () {
+    function Greeting() {
     }
-};
-console.log(CalculatorOperation.add("Amal", "Salvin"));
-console.log(CalculatorOperation.subtract(13, 5));
-console.log("\x1b[91m-----------eof INTERFACE-----------\x1b[0m");
-console.log("\n---------\x1b[103m\x1b[30m--CLASS--\x1b[0m---------");
-var Student = /** @class */ (function () {
-    function Student(_rollNo, _name) {
-        this.rollNo = _rollNo;
-        this.Name = _name;
-    }
-    Student.prototype.showDetails = function () {
-        console.log(this.rollNo);
-        console.log(this.Name);
+    Greeting.prototype.greet = function () {
+        console.log("Hello World!!!");
     };
-    return Student;
+    return Greeting;
 }());
-var Pavitra;
-Pavitra = new Student(1, "Pavitra");
-Pavitra.showDetails();
-console.log("\x1b[91m-----------eof CLASS-----------\x1b[0m");
-//enum
-console.log("\n---------\x1b[103m\x1b[30m--ENUMS--\x1b[0m---------");
-var Color;
-(function (Color) {
-    Color[Color["Red"] = 0] = "Red";
-    Color[Color["Green"] = 1] = "Green";
-    Color[Color["Blue"] = 2] = "Blue";
-})(Color || (Color = {}));
-var c;
-c = Color.Red;
-console.log(c);
-console.log("\x1b[91m-----------eof ENUMS-----------\x1b[0m");
-//function
-console.log("\n---------\x1b[103m\x1b[30m--FUNCTIONS--\x1b[0m---------");
-//Named Function
-function add(a, b) {
-    return a + b;
+var obj = new Greeting();
+obj.greet();
+//variables
+var name1 = "John";
+var score1 = 50;
+var score2 = 42.50;
+var sum = score1 + score2;
+console.log("name" + name1);
+console.log("first score: " + score1);
+console.log("second score: " + score2);
+console.log("sum of the scores: " + sum);
+//Decision Making.
+//if condition.
+var num = 5;
+if (num > 0) {
+    console.log("number is positive");
 }
-//Anonymous Function  
-var sum = function (a, b) {
-    return a + b;
+//if else Condition
+var num1 = 12;
+if (num % 2 == 0) {
+    console.log("even");
+}
+else {
+    console.log("odd");
+}
+//if-else-if-else 
+var num2 = 2;
+if (num2 > 0) {
+    console.log(num2 + " is positive");
+}
+else if (num2 < 0) {
+    console.log(num2 + " is negative");
+}
+else {
+    console.log(num2 + " is neither positive nor negative");
+}
+//switch statement
+var grade = "A";
+switch (grade) {
+    case "A": {
+        console.log("Excellent");
+        break;
+    }
+    case "B": {
+        console.log("Good");
+        break;
+    }
+    case "C": {
+        console.log("Fair");
+        break;
+    }
+    case "D": {
+        console.log("Poor");
+        break;
+    }
+    default: {
+        console.log("Invalid choice");
+        break;
+    }
+}
+//loops
+//for loop
+var j;
+var n = "a b c";
+for (j in n) {
+    console.log(n[j]);
+}
+//while and do-while loop
+var x = 5;
+while (x > 5) {
+    console.log("Entered while");
+}
+do {
+    console.log("Entered do…while");
+} while (x > 5);
+//function
+function test(n1, s1) {
+    console.log(n1);
+    console.log(s1);
+}
+test(123, "this is a string"); //method call
+//array
+var alphas;
+alphas = ["a", "b", "c", "d"];
+console.log(alphas[0]);
+console.log(alphas[1]);
+//array object
+var arr_names = new Array(4);
+for (var i = 0; i < arr_names.length; i++) {
+    arr_names[i] = i * 2;
+    console.log(arr_names[i]);
+}
+//array method
+//filter()
+function isBigEnough(element, index, array) {
+    return (element >= 10);
+}
+var passed = [12, 5, 8, 130, 44].filter(isBigEnough);
+console.log("Test Value : " + passed);
+//tuples.
+var mytuple = [10, "Hi"];
+console.log(mytuple[0]);
+console.log(mytuple[1]);
+//emty tuple.
+var tup = [];
+tup[0] = 12;
+tup[1] = "hello";
+console.log(tup[0]);
+console.log(tup[1]);
+//union
+var val;
+val = 12;
+console.log("numeric value of val " + val);
+val = "This is a string";
+console.log("string value of val " + val);
+var customer = {
+    firstName: "Tom",
+    lastName: "Hanks"
 };
-//Arrow Function
-var sumArrow;
-sumArrow = function (a, b) {
-    return a + b;
+console.log("Customer Object ");
+console.log(customer.firstName);
+console.log(customer.lastName);
+//class declaration
+var Car = /** @class */ (function () {
+    //constructor 
+    function Car(engine) {
+        this.engine = engine;
+    }
+    //function 
+    Car.prototype.disp = function () {
+        console.log("Engine is  :   " + this.engine);
+    };
+    return Car;
+}());
+//object declaration.
+var person = {
+    firstname: "Tom",
+    lastname: "Hanks"
 };
-console.log("Named Function:", add(5, 5));
-console.log("Anonymous Functions:", sum(9, 3));
-console.log("Arrow Functions:", sumArrow(9, 3));
+console.log(person.firstname);
+console.log(person.lastname);

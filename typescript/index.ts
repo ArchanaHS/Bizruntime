@@ -1,156 +1,202 @@
+//string
+var message = "Hello World";
+console.log(message);
 
-console.log("\x1b[47m\x1b[30m%s\x1b[0m","-----------STATIC types-----------"); 
-let first: number = 12.2; //number
-let second: number = 0xFFF; //hex
-let third: number = 0o373; //octal
-let fourth: number = 0b1101; //binary
-console.log("\n\n---------\x1b[103m\x1b[30m--Number--\x1b[0m---------")
-console.log(first)
-console.log(second)
-console.log(third)
-console.log(fourth)
-console.log("\x1b[91m-----------eof Number-----------\x1b[0m")
+//class,object,method.
+class Greeting { 
+    greet():void { 
+       console.log("Hello World!!!") 
+    } 
+ } 
+ var obj = new Greeting(); 
+ obj.greet();
 
+ //variables
+var name1:string = "John"; 
+var score1:number = 50;
+var score2:number = 42.50;
+var sum = score1 + score2 
+console.log("name"+name1) 
+console.log("first score: "+score1) 
+console.log("second score: "+score2) 
+console.log("sum of the scores: "+sum)
 
-console.log("\n---------\x1b[103m\x1b[30m--String--\x1b[0m---------")
-let empName: string = "Rohan";   
-let empDept: string = "IT"; 
-let strOutput: string = `${empName} works in ${empDept} department`
-console.log(strOutput);
-console.log("\x1b[91m-----------eof String-----------\x1b[0m")
+//Decision Making.
+//if condition.
+var num:number=5;
+if(num > 0){
+   console.log("number is positive")
 
-console.log("\n---------\x1b[103m\x1b[30m--Boolean--\x1b[0m---------")
-let isDone: boolean = false;
-console.log(isDone);  
-console.log("\x1b[91m-----------eof Boolean-----------\x1b[0m")
-
-
-console.log("\n---------\x1b[103m\x1b[30m--Void--\x1b[0m---------")
-function helloUser(): void {
-    console.log("Greetings User!")
-}
-helloUser();
-console.log("\x1b[91m-----------eof Void-----------\x1b[0m")
-
-
-console.log("\n---------\x1b[103m\x1b[30m--Any type--\x1b[0m---------")
-function ProcessData(x: any, y: any):any {  
-    return x + y;  
-}  
-let result: any;  
-result = ProcessData("Hello ", "Any!"); 
-console.log(result,"of type",typeof result)
-result = ProcessData(2, 3); 
-console.log(result,"of type",typeof result)
-console.log("\x1b[91m-----------eof Any type-----------\x1b[0m\n\n")
-
-
-
-console.log("\x1b[47m\x1b[30m%s\x1b[0m","-----------USERDEFINED types-----------"); 
-
-//array
-console.log("\n\n---------\x1b[103m\x1b[30m--ARRAY--\x1b[0m---------")
-var list : Array<number> = [1, 3, 5];
-var fruits : string[] = ["Apple", "Orange", "Banana"];
-
-console.log(list, fruits);
-
-console.log('---------')
-//Union Array
-var mixed : Array<(string|number)> = ['Apple',1,'Orange',3,'Banana',5]
-console.log(mixed);
-
-console.log("\x1b[91m-----------eof ARRAY-----------\x1b[0m")
-
-
-//tuple
-console.log("\n---------\x1b[103m\x1b[30m--TOUPLE--\x1b[0m---------")
-let tuple : [string,number];
-tuple = ["One",1];
-
-console.log(tuple)
-console.log("\x1b[91m-----------eof TOUPLE-----------\x1b[0m")
-
-//interface
-console.log("\n---------\x1b[103m\x1b[30m--INTERFACE--\x1b[0m---------")
-interface ops {
-    subtract(a:number, b :number) : number;
-    add(a:any, b :any) : any;
 }
 
-let CalculatorOperation : ops =  {
-    subtract(a,b) {
-        return a-b
-    },
-    add(a,b){
-        return a+b
-    }
+//if else Condition
+var num1:number=12;
+if(num%2==0){
+   console.log("even");
+
+   }
+   else{
+      console.log("odd");
+
 }
 
-console.log(CalculatorOperation.add("Amal","Salvin"))
-console.log(CalculatorOperation.subtract(13,5))
-console.log("\x1b[91m-----------eof INTERFACE-----------\x1b[0m")
+//if-else-if-else 
 
-
-console.log("\n---------\x1b[103m\x1b[30m--CLASS--\x1b[0m---------")
-class Student{
-    rollNo : number;
-    Name : string;
-    constructor(_rollNo: number, _name: string){
-        this.rollNo = _rollNo;
-        this.Name = _name;
-    }
-
-    showDetails() {
-        console.log(this.rollNo);
-        console.log(this.Name);        
-    }
+var num2:number = 2;
+if (num2 > 0) {
+   console.log(num2 + " is positive");
+} else if (num2 < 0) {
+   console.log(num2 + " is negative");
+} else {
+   console.log(num2 + " is neither positive nor negative");
 }
 
-let Pavitra: Student
-Pavitra = new Student(1,"Pavitra")
-Pavitra.showDetails();
-
-console.log("\x1b[91m-----------eof CLASS-----------\x1b[0m")
-
-//enum
-console.log("\n---------\x1b[103m\x1b[30m--ENUMS--\x1b[0m---------")
-enum Color {
-    Red, Green, Blue
+//switch statement
+var grade:string="A"; 
+switch(grade) { 
+   case "A": { 
+      console.log("Excellent"); 
+      break; 
+   } 
+   case "B": { 
+      console.log("Good"); 
+      break; 
+   } 
+   case "C": {
+      console.log("Fair"); 
+      break;    
+   } 
+   case "D": { 
+      console.log("Poor"); 
+      break; 
+   }  
+   default: { 
+      console.log("Invalid choice"); 
+      break;              
+   } 
 }
 
-let c : Color;
-c = Color.Red;
-console.log(c)
-console.log("\x1b[91m-----------eof ENUMS-----------\x1b[0m")
+
+//loops
+//for loop
+var j:any; 
+var n:any = "a b c" 
+
+for(j in n) {
+   console.log(n[j])  
+}
+
+//while and do-while loop
+var x:number = 5 
+while(x > 5) { 
+   console.log("Entered while") 
+} 
+do { 
+   console.log("Entered do…while") 
+} 
+while(x>5)
+
 
 
 //function
-console.log("\n---------\x1b[103m\x1b[30m--FUNCTIONS--\x1b[0m---------")
-//Named Function
-function add(a: number, b: number): number {  
-    return a + b;  
-}  
+function test(n1:number,s1:string) { //return type with argument
+   console.log(n1) 
+   console.log(s1) 
+} 
+test(123,"this is a string")//method call
 
-//Anonymous Function  
-let sum = function (a: number, b: number): number {  
-    return a + b;  
-};  
+//array
+var alphas:string[]; 
+alphas = ["a","b","c","d"] 
+console.log(alphas[0]); 
+console.log(alphas[1]);
 
-//Arrow Function
-let sumArrow : (a: number, b:number) => number ;
-sumArrow = (a,b) => {
-    return a + b
+//array object
+var arr_names:number[] = new Array(4)  
+
+for(var i = 0;i<arr_names.length;i++) { 
+   arr_names[i] = i * 2 
+   console.log(arr_names[i]) 
+}
+//array method
+
+//filter()
+function isBigEnough(element, index, array) { 
+   return (element >= 10); 
+} 
+          
+var passed = [12, 5, 8, 130, 44].filter(isBigEnough); 
+console.log("Test Value : " + passed );
+
+
+//tuples.
+var mytuple = [10,"Hi"]; 
+console.log(mytuple[0]) 
+console.log(mytuple[1])
+
+
+//emty tuple.
+var tup=[]
+tup[0]=12;
+tup[1]="hello";
+console.log(tup[0]);
+console.log(tup[1]);
+
+//union
+var val:string|number 
+val = 12 
+console.log("numeric value of val "+val) 
+val = "This is a string" 
+console.log("string value of val "+val)
+
+//interface.
+interface IPerson { 
+   firstName:string, 
+   lastName:string, 
+  
+} 
+
+var customer:IPerson = { 
+   firstName:"Tom",
+   lastName:"Hanks", 
+
+} 
+
+console.log("Customer Object ") 
+console.log(customer.firstName) 
+console.log(customer.lastName) 
+
+
+//class declaration
+class Car { 
+  
+   engine:string; //field.
+ 
+   //constructor 
+   constructor(engine:string) { 
+      this.engine = engine 
+   }  
+
+   //function 
+   disp():void { 
+      console.log("Engine is  :   "+this.engine) 
+   } 
 }
 
-console.log("Named Function:",add(5,5));
-console.log("Anonymous Functions:",sum(9,3));
-console.log("Arrow Functions:",sumArrow(9,3));
+
+//object declaration.
+var person = { 
+   firstname:"Tom", 
+   lastname:"Hanks" 
+};
+console.log(person.firstname);
+console.log(person.lastname);
 
 
-
-
-   
-
-
-
+//namespace
+//filename:IShape.ts
+namespace Drawing { 
+   export interface IShape { 
+      draw(); 
+   }
+}  
