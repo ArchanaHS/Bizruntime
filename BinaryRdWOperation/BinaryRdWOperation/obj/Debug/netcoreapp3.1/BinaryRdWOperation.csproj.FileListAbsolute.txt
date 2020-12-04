@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\bin\Debug\netcoreapp3.1\BinaryRdWOperation.exe
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\bin\Debug\netcoreapp3.1\BinaryRdWOperation.deps.json
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\bin\Debug\netcoreapp3.1\BinaryRdWOperation.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\bin\Debug\netcoreapp3.1\BinaryRdWOperation.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\bin\Debug\netcoreapp3.1\BinaryRdWOperation.dll
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\bin\Debug\netcoreapp3.1\BinaryRdWOperation.pdb
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\obj\Debug\netcoreapp3.1\BinaryRdWOperation.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\obj\Debug\netcoreapp3.1\BinaryRdWOperation.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\obj\Debug\netcoreapp3.1\BinaryRdWOperation.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\obj\Debug\netcoreapp3.1\BinaryRdWOperation.dll
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\obj\Debug\netcoreapp3.1\BinaryRdWOperation.pdb
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\obj\Debug\netcoreapp3.1\BinaryRdWOperation.genruntimeconfig.cache
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\BinaryRdWOperation\BinaryRdWOperation\obj\Debug\netcoreapp3.1\BinaryRdWOperation.csprojAssemblyReference.cache

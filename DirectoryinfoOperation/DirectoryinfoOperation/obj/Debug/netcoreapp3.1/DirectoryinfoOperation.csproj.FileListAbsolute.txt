@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\bin\Debug\netcoreapp3.1\DirectoryinfoOperation.exe
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\bin\Debug\netcoreapp3.1\DirectoryinfoOperation.deps.json
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\bin\Debug\netcoreapp3.1\DirectoryinfoOperation.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\bin\Debug\netcoreapp3.1\DirectoryinfoOperation.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\bin\Debug\netcoreapp3.1\DirectoryinfoOperation.dll
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\bin\Debug\netcoreapp3.1\DirectoryinfoOperation.pdb
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\obj\Debug\netcoreapp3.1\DirectoryinfoOperation.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\obj\Debug\netcoreapp3.1\DirectoryinfoOperation.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\obj\Debug\netcoreapp3.1\DirectoryinfoOperation.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\obj\Debug\netcoreapp3.1\DirectoryinfoOperation.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\obj\Debug\netcoreapp3.1\DirectoryinfoOperation.dll
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\obj\Debug\netcoreapp3.1\DirectoryinfoOperation.pdb
+C:\Users\hp\Desktop\Bizruntime\21-11-2020\file IO\DirectoryinfoOperation\DirectoryinfoOperation\obj\Debug\netcoreapp3.1\DirectoryinfoOperation.genruntimeconfig.cache
