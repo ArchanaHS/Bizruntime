@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\bin\Debug\netcoreapp3.1\CollectionLinq.exe
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\bin\Debug\netcoreapp3.1\CollectionLinq.deps.json
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\bin\Debug\netcoreapp3.1\CollectionLinq.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\bin\Debug\netcoreapp3.1\CollectionLinq.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\bin\Debug\netcoreapp3.1\CollectionLinq.dll
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\bin\Debug\netcoreapp3.1\CollectionLinq.pdb
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\obj\Debug\netcoreapp3.1\CollectionLinq.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\obj\Debug\netcoreapp3.1\CollectionLinq.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\obj\Debug\netcoreapp3.1\CollectionLinq.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\obj\Debug\netcoreapp3.1\CollectionLinq.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\obj\Debug\netcoreapp3.1\CollectionLinq.dll
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\obj\Debug\netcoreapp3.1\CollectionLinq.pdb
+C:\Users\hp\Desktop\Bizruntime\19-11-2020\Linq\CollectionLinq\CollectionLinq\obj\Debug\netcoreapp3.1\CollectionLinq.genruntimeconfig.cache

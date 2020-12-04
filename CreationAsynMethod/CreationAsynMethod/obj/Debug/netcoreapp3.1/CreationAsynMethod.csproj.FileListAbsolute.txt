@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\bin\Debug\netcoreapp3.1\CreationAsynMethod.exe
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\bin\Debug\netcoreapp3.1\CreationAsynMethod.deps.json
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\bin\Debug\netcoreapp3.1\CreationAsynMethod.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\bin\Debug\netcoreapp3.1\CreationAsynMethod.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\bin\Debug\netcoreapp3.1\CreationAsynMethod.dll
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\bin\Debug\netcoreapp3.1\CreationAsynMethod.pdb
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\obj\Debug\netcoreapp3.1\CreationAsynMethod.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\obj\Debug\netcoreapp3.1\CreationAsynMethod.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\obj\Debug\netcoreapp3.1\CreationAsynMethod.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\obj\Debug\netcoreapp3.1\CreationAsynMethod.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\obj\Debug\netcoreapp3.1\CreationAsynMethod.dll
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\obj\Debug\netcoreapp3.1\CreationAsynMethod.pdb
+C:\Users\hp\Desktop\Bizruntime\20-11-2020\c#\CreationAsynMethod\CreationAsynMethod\obj\Debug\netcoreapp3.1\CreationAsynMethod.genruntimeconfig.cache
