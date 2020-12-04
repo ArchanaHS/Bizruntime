@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\bin\Debug\netcoreapp3.1\PassingValue.exe
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\bin\Debug\netcoreapp3.1\PassingValue.deps.json
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\bin\Debug\netcoreapp3.1\PassingValue.runtimeconfig.json
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\bin\Debug\netcoreapp3.1\PassingValue.runtimeconfig.dev.json
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\bin\Debug\netcoreapp3.1\PassingValue.dll
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\bin\Debug\netcoreapp3.1\PassingValue.pdb
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\obj\Debug\netcoreapp3.1\PassingValue.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\obj\Debug\netcoreapp3.1\PassingValue.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\obj\Debug\netcoreapp3.1\PassingValue.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\obj\Debug\netcoreapp3.1\PassingValue.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\obj\Debug\netcoreapp3.1\PassingValue.dll
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\obj\Debug\netcoreapp3.1\PassingValue.pdb
+C:\Users\hp\Desktop\C#\PassingValue\PassingValue\obj\Debug\netcoreapp3.1\PassingValue.genruntimeconfig.cache
