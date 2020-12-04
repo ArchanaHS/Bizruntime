@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\obj\Debug\netcoreapp3.1\ClientSideConnection.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\obj\Debug\netcoreapp3.1\ClientSideConnection.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\obj\Debug\netcoreapp3.1\ClientSideConnection.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\obj\Debug\netcoreapp3.1\ClientSideConnection.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\bin\Debug\netcoreapp3.1\ClientSideConnection.exe
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\bin\Debug\netcoreapp3.1\ClientSideConnection.deps.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\bin\Debug\netcoreapp3.1\ClientSideConnection.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\bin\Debug\netcoreapp3.1\ClientSideConnection.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\bin\Debug\netcoreapp3.1\ClientSideConnection.dll
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\bin\Debug\netcoreapp3.1\ClientSideConnection.pdb
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\obj\Debug\netcoreapp3.1\ClientSideConnection.dll
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\obj\Debug\netcoreapp3.1\ClientSideConnection.pdb
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\ClientSideConnection\ClientSideConnection\obj\Debug\netcoreapp3.1\ClientSideConnection.genruntimeconfig.cache

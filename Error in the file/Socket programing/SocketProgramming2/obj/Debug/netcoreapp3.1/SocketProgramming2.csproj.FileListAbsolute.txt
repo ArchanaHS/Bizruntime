@@ -1,0 +1,26 @@
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\bin\Debug\netcoreapp3.1\SocketProgramming2.exe
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\bin\Debug\netcoreapp3.1\SocketProgramming2.deps.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\bin\Debug\netcoreapp3.1\SocketProgramming2.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\bin\Debug\netcoreapp3.1\SocketProgramming2.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\bin\Debug\netcoreapp3.1\SocketProgramming2.dll
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\bin\Debug\netcoreapp3.1\SocketProgramming2.pdb
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.dll
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.pdb
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SocketProgramming2\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.genruntimeconfig.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\bin\Debug\netcoreapp3.1\SocketProgramming2.exe
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\bin\Debug\netcoreapp3.1\SocketProgramming2.deps.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\bin\Debug\netcoreapp3.1\SocketProgramming2.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\bin\Debug\netcoreapp3.1\SocketProgramming2.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\bin\Debug\netcoreapp3.1\SocketProgramming2.dll
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\bin\Debug\netcoreapp3.1\SocketProgramming2.pdb
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.dll
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.pdb
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Socket programing\SocketProgramming2\obj\Debug\netcoreapp3.1\SocketProgramming2.genruntimeconfig.cache
