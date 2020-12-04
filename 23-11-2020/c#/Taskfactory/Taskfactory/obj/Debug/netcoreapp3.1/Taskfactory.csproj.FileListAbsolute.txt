@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\bin\Debug\netcoreapp3.1\Taskfactory.exe
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\bin\Debug\netcoreapp3.1\Taskfactory.deps.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\bin\Debug\netcoreapp3.1\Taskfactory.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\bin\Debug\netcoreapp3.1\Taskfactory.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\bin\Debug\netcoreapp3.1\Taskfactory.dll
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\bin\Debug\netcoreapp3.1\Taskfactory.pdb
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\obj\Debug\netcoreapp3.1\Taskfactory.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\obj\Debug\netcoreapp3.1\Taskfactory.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\obj\Debug\netcoreapp3.1\Taskfactory.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\obj\Debug\netcoreapp3.1\Taskfactory.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\obj\Debug\netcoreapp3.1\Taskfactory.dll
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\obj\Debug\netcoreapp3.1\Taskfactory.pdb
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\Taskfactory\Taskfactory\obj\Debug\netcoreapp3.1\Taskfactory.genruntimeconfig.cache

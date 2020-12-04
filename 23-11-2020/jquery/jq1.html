@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device=width initial-scale=1.0">
+        <title>Document.</title>
+        <style>
+            #panel, #flip{
+                width:200px;
+                height:50px;
+                padding:5px;
+                text-align: center;
+                background-color: thistle;
+                border:solid 1px black;
+
+            }
+            #panel {
+            padding: 20px;
+            display: none;
+            }
+        </style>
+    </head>
+    <body>
+        
+       <button id="btn">Click Me.</button> 
+        <div style="width:300px; height: 300px; background-color: aqua;" id="box">
+
+        </div>
+        <br>
+        <br>
+        <input type="text" id="inp">
+        <label   style="display:none" id="error">Enter Minimum 4 character..</label>
+        <input type="text" id="">
+
+        <br>
+        <br>
+        
+        <div id="div1" style="width:80px; height: 80px; background-color: blue; display:none;"></div>
+        <br>
+        <div id="div2" style="width:80px; height: 80px; background-color:pink; display:none;"></div>
+        <br>
+        <div id="div3" style="width:80px; height: 80px; background-color:violet; display:none;"></div><br>
+        <br>
+        <div style="background:#98bf21;height:50px;width:50px;position:absolute;" id="div4"></div>
+        <br>
+
+        <br>
+        <br>
+        <button id="stop">Stop sliding</button><br>
+        <div id="flip">Click to slide down panel</div>
+        <div id="panel">Hello world!</div>
+
+        <br>
+        <br>
+
+        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+        
+        <script>
+
+            $(document).ready(function(){
+                $("#btn").click(function(){
+                    //alert("Butto clicked....")
+                    $("#box").toggle(3000)
+                })
+                $("#btn").mouseenter(function(){
+                    $(this).css({"background":"red"})
+                })
+                $("#btn").mouseleave(function(){
+                    $(this).css({"background":"none"})
+                })
+                $("#inp").blur(function(){
+                    var text=$(this). val();
+                    if(text.length<4){
+                       // alert("enter minimum charcter.")
+                       $("#error").show();
+  
+                    }
+                    else{
+                        $("#error").hide();
+                    }
+
+                });
+                
+                    $("button").click(function(){
+                    $("#div1").fadeIn();
+                    $("#div2").fadeIn("slow");
+                    $("#div3").fadeIn(3000);
+                });
+                $("#flip").click(function(){
+                $("#panel").slideDown(5000);
+                });
+                $("#stop").click(function(){
+                    $("#panel").stop();
+                });
+
+                $("button").click(function(){
+                $("#div4").animate({left: '250px'});
+            });
+            $("button").click(function(){
+        $("p").hide("slow", function(){
+        alert("The paragraph is now hidden");
+        });
+            });
+
+
+                
+            });
+            </script>
+
+    
+    
+    </body>
+</html>

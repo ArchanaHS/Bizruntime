@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\bin\Debug\netcoreapp3.1\clientconnection.exe
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\bin\Debug\netcoreapp3.1\clientconnection.deps.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\bin\Debug\netcoreapp3.1\clientconnection.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\bin\Debug\netcoreapp3.1\clientconnection.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\bin\Debug\netcoreapp3.1\clientconnection.dll
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\bin\Debug\netcoreapp3.1\clientconnection.pdb
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\obj\Debug\netcoreapp3.1\clientconnection.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\obj\Debug\netcoreapp3.1\clientconnection.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\obj\Debug\netcoreapp3.1\clientconnection.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\obj\Debug\netcoreapp3.1\clientconnection.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\obj\Debug\netcoreapp3.1\clientconnection.dll
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\obj\Debug\netcoreapp3.1\clientconnection.pdb
+C:\Users\hp\Desktop\Bizruntime\23-11-2020\c#\SerCliSocket\ConsoleApp1\clientconnection\obj\Debug\netcoreapp3.1\clientconnection.genruntimeconfig.cache
