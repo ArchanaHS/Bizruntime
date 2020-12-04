@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\bin\Debug\netcoreapp3.1\DynamicType.exe
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\bin\Debug\netcoreapp3.1\DynamicType.deps.json
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\bin\Debug\netcoreapp3.1\DynamicType.runtimeconfig.json
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\bin\Debug\netcoreapp3.1\DynamicType.runtimeconfig.dev.json
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\bin\Debug\netcoreapp3.1\DynamicType.dll
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\bin\Debug\netcoreapp3.1\DynamicType.pdb
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.dll
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.pdb
+C:\Users\hp\Desktop\C#\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.genruntimeconfig.cache
