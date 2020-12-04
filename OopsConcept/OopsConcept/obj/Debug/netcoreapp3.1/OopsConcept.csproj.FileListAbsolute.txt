@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\bin\Debug\netcoreapp3.1\OopsConcept.exe
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\bin\Debug\netcoreapp3.1\OopsConcept.deps.json
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\bin\Debug\netcoreapp3.1\OopsConcept.runtimeconfig.json
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\bin\Debug\netcoreapp3.1\OopsConcept.runtimeconfig.dev.json
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\bin\Debug\netcoreapp3.1\OopsConcept.dll
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\bin\Debug\netcoreapp3.1\OopsConcept.pdb
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.dll
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.pdb
+C:\Users\hp\Desktop\C#\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.genruntimeconfig.cache

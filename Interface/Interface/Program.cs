@@ -1,37 +1,40 @@
 ﻿using System;
 
 namespace Interface
-
 {
-    //interface
-    interface Firstinterface
+    class InterfaceProgram
     {
-        void mymethod();//method interface
-    }
-    interface Secondinterface
-    {
-        void myothermethod();//method interface
-    }
-    //implement multiple interface.
-    class Democlass : Firstinterface, Secondinterface
-    {
-        public void mymethod()
+        public void method()
         {
-            Console.WriteLine("abc");
-        }
-        public void myothermethod()
-        {
-            Console.WriteLine("abcd");
-        }
-        class program
-        {
-            static void Main(string[] args)
-            {
-                Democlass myobj = new Democlass();//object declaration
-                myobj.mymethod();
-                myobj.myothermethod();//calling method.
-            }
-        }
+            Ifile file1 = new FileInfo();
+            FileInfo file2 = new FileInfo();
 
+            file1.ReadFile();
+            file1.WriteFile("content");
+
+            file2.ReadFile();
+            file2.WriteFile("content");
+        }
+        static void Main(string[] args)
+        {
+            InterfaceProgram fl = new InterfaceProgram();
+            fl.method();
+        }
+    }
+    interface Ifile
+    {
+        void ReadFile();
+        void WriteFile(string text);
+    }
+    class FileInfo : Ifile
+    {
+        public void ReadFile()
+        {
+            Console.WriteLine("reading a file");
+        }
+        public void WriteFile(string text)
+        {
+            Console.WriteLine("Writing to file");
+        }
     }
 }

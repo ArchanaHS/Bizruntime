@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Bizruntime\\5-11-2020\\c#\\Interface\\Interface\\Interface.csproj": {}
+    "C:\\Users\\hp\\Desktop\\C#\\Interface\\Interface\\Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Bizruntime\\5-11-2020\\c#\\Interface\\Interface\\Interface.csproj": {
+    "C:\\Users\\hp\\Desktop\\C#\\Interface\\Interface\\Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Bizruntime\\5-11-2020\\c#\\Interface\\Interface\\Interface.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\C#\\Interface\\Interface\\Interface.csproj",
         "projectName": "Interface",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Bizruntime\\5-11-2020\\c#\\Interface\\Interface\\Interface.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\C#\\Interface\\Interface\\Interface.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Bizruntime\\5-11-2020\\c#\\Interface\\Interface\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\C#\\Interface\\Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
