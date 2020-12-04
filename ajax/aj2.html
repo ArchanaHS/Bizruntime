@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+        <script>
+            $(document).ready(function(){
+                $("#btn1").click(function(){
+                    $("#text1").text("hello world!..");
+                });
+                $("#btn2").click(function(){
+                    $("#text2").html("<b>Hello World!</b>");
+                });
+                $("#btn3").click(function(){
+                    $("#text3").val("Dolly Duk.");
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <p id="text1">this is paragraph..</p>
+        <p id="text2">this is another paragraph..</p>
+        <br>
+        <p>Input Field: <input type="text" value="Mickey Mouse" id="text3"></p>
+        <br>
+
+        <button id="btn1">set text</button>
+        <button id="btn2">set html</button>
+        <button id="btn3">set value</button>
+    </body>
+</html>
