@@ -1,0 +1,51 @@
+import { of } from "rxjs";
+import { map, reduce, filter } from "rxjs/operators";
+import { first } from "rxjs/operators";
+
+const source = of("World").pipe(map(x => `Hello ${x}!`));
+
+source.subscribe(console.log);
+//operator.
+//filter d reduce operator.
+let test1 = of(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+let case1 = test1.pipe(
+  filter(x => x % 2 === 0),
+  reduce((acc, one) => acc + one, 0)
+);
+case1.subscribe(z => console.log(z));
+
+//interval operator d take operator.
+
+import { interval } from "rxjs";
+import { take } from "rxjs/operators";
+let test = interval(1000);
+let case2 = test.pipe(take(10));
+case1.subscribe(y => console.log(y));
+//from operator.
+import { from } from "rxjs";
+let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let test2 = from(arr);
+test.subscribe(x => console.log(x));
+//of operator.
+const source1 = of(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+const subscribe = source.subscribe(val => console.log(val));
+
+//Mathematical operator
+//count operator.
+//predict-func->parameter.
+import { count } from "rxjs/operators";
+let all_nums = of(1, 3, 5, 7, 11, 13, 23, 27);
+let final_val = all_nums.pipe(count());
+final_val.subscribe(a => console.log("The count is " + a));
+
+//max operator
+import { max } from "rxjs/operators";
+let all_nums1 = of(1, 3, 5, 6, 12, 13, 24, 28);
+let final_val1 = all_nums.pipe(max());
+final_val.subscribe(b => console.log("The Max value is " + b));
+
+//min operator
+import { min } from "rxjs/operators";
+let list1 = [11, 13, 26, 70, 58, 2, 40];
+let final_val2 = of(11, 13, 26, 70, 58, 2, 40).pipe(min());
+final_val.subscribe(c => console.log("The Min value is " + c));
