@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\bin\Debug\netcoreapp3.1\ClientPrograming.exe
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\bin\Debug\netcoreapp3.1\ClientPrograming.deps.json
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\bin\Debug\netcoreapp3.1\ClientPrograming.runtimeconfig.json
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\bin\Debug\netcoreapp3.1\ClientPrograming.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\bin\Debug\netcoreapp3.1\ClientPrograming.dll
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\bin\Debug\netcoreapp3.1\ClientPrograming.pdb
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\obj\Debug\netcoreapp3.1\ClientPrograming.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\obj\Debug\netcoreapp3.1\ClientPrograming.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\obj\Debug\netcoreapp3.1\ClientPrograming.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\obj\Debug\netcoreapp3.1\ClientPrograming.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\obj\Debug\netcoreapp3.1\ClientPrograming.dll
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\obj\Debug\netcoreapp3.1\ClientPrograming.pdb
+C:\Users\hp\Desktop\Bizruntime\24-11-2020\socket programing\ClientPrograming\ClientPrograming\obj\Debug\netcoreapp3.1\ClientPrograming.genruntimeconfig.cache
