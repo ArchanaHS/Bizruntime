@@ -1,24 +1,24 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Program1
+namespace Program2
 {
-    public delegate void hellofunction(string message);
-    //delegates is a function that points to the similar signature of the method.
-    //to point to the other method it will tale return type of function d its parameter.
-    //can create delegate instance.
-    public class Delegatess
+    class Program
     {
-        public static void hello(string strmessage)
+        static void method()
         {
-            Console.WriteLine(strmessage);
+            string ch = "something";
+            string word = "hello";
+            string gh = "hi\"how are you\"welcome";
+            string path = "india\\karnataka";
+            Console.WriteLine(ch);
+            Console.WriteLine(word);
+            Console.WriteLine(gh);
+            Console.WriteLine(path);
         }
-
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            hellofunction hf = new hellofunction(hello);
-            hf("hello from delegates");
+            //Program obj = new Program();
+            method();
 
         }
     }
